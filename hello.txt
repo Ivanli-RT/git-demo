@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 hello SB! hello git!   22222222222ii
 hello SB! hello git!   2222222333333
 hello SB! hello git!
 hello SB! hello git!
 hello SB! hello git!
+=======
+hello SB! hello git!  2223
+hello SB! hello git!  3333
+hello SB! hello git!
+hello SB! hello git! master test
+hello SB! hello git!`
+>>>>>>> hot-fix
 hello SB! hello git!
 hello SB! hello git!
 hello SB! hello git!
